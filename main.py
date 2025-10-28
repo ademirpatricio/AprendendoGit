@@ -1,1 +1,1 @@
-print("funcionou de novo!")
+print("tou aprendendo essa porra!")
